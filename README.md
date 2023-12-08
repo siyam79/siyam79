@@ -1,8 +1,8 @@
-### Hi there 👋
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=great-gatsby&card_width=413)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
