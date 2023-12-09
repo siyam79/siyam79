@@ -12,6 +12,12 @@
 ## Skills: [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,expressjs,react,mongodb,vite,vercel,figma,vscode,tailwind)](https://skillicons.dev)
 
 </br>
+
+- 🔭 I’m currently working on react.js 
+- 🌱 I’m currently learning Next.js 
+- 👯 I’m looking to collaborate on MERN Stack And Others Developer 
+- 🤔 I’m looking for help with Web Developments  
+
 </br>
 
 - 🔭 I’m currently working on this page. 
