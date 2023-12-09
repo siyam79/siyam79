@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, my name is Siyam Ahmed
+### Hi I'am 👋, Siyam Ahmed
 #### MERN STACK Web Developer
 ![MERN STACK Web Developer](https://i.ibb.co/8sdYT58/Purple-Gradient-Modern-Gaming-Channel-Youtube-Banner.png)
 
