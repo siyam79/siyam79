@@ -94,7 +94,7 @@ Experience streamlined job posting and bidding on our platform. Users with accou
 </br>
 </br>
 </br>
-# projects >>  Technology  Electronics || [Live Site](https://technology-client-site.web.app)
+# projects >>  Technology And Electronics || [Live Site](https://technology-client-site.web.app)
 ## Features
 
 ### Dynamic Product Management:
