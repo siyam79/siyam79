@@ -90,11 +90,20 @@ Welcome to  your ultimate fitness destination!  we offer a variety of fitness cl
 
 ###Efficient Job Posting and Bidding:
 ####Experience streamlined job posting and bidding on our platform. Users with accounts can post jobs, which are promptly displayed on the homepage and category pages. The bidding process allows job seekers to submit their bids, and the unique "Accept" and "Reject" buttons empower job posters to manage bids effectively. Additionally, users can update and track their posted jobs in the "My Post" section, ensuring a dynamic and user-centric platform.
+</br>
+</br>
+</br>
+</br>
+# projects >>  Technology  Electronics || [Live Site](https://technology-client-site.web.app)
+## Features
 
-
-
-
-
+### Dynamic Product Management:
+#### Feature: Users can seamlessly manage product details through the "Update" button. After clicking, they're directed to a card layout, allowing them to view, edit, and delete product information. This feature enhances user control and customization, ensuring a tailored experience.
+### Effortless Shopping Experience:
+#### Feature: The platform offers a user-friendly shopping experience. Users can add products to their cart with ease, and the data is securely stored in the database. Enjoy the convenience of exploring and selecting your favorite tech products hassle-free.
+Description: Shop stress-free on our Technology and Electronics platform
+###Secure Multi-Login Options:
+####Feature: Users can log in securely using multiple authentication options, including Google, GitHub, and email. The platform ensures password strength by requiring a combination of characters, numbers, and special characters for enhanced security.
 
 
 
