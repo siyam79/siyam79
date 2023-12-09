@@ -15,6 +15,12 @@
 </br>
 
 - 🔭 I’m currently working on react.js 
+- 🔭 I’m currently working on node.js 
+- 🔭 I’m currently working on express.js 
+- 🔭 I’m currently working on Mongodb 
+- 🔭 I’m currently working on tailwind.css
+- 🔭 I’m currently working on firebase
+- 🔭 I’m currently working on nmp package
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on MERN Stack And Others Developer 
 - 🤔 I’m looking for help with Web Developments  
