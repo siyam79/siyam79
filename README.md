@@ -5,8 +5,9 @@
 ![MERN STACK Web Developer](https://i.ibb.co/xghys10/Purple-Gradient-Modern-Gaming-Channel-Youtube-Banner-2.png)
 </br>
 </br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </br>
-
+</br>
 👋 Hi, I'm Siyam Ahmed, a MERN stack developer passionate about building sleek and scalable web applications. </br> 💻 I thrive on solving coding puzzles and embrace continuous learning to stay at the forefront of technology. </br> Let's connect and code something amazing together! 🚀
 
 ## Skills: [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,expressjs,react,mongodb,vite,vercel,figma,vscode,tailwind)](https://skillicons.dev)
@@ -31,7 +32,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyam79)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=siyam79&show_icons=true&count_private=true)  
+
+
+
+
 
 
 
