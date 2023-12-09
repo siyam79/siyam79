@@ -72,5 +72,6 @@ Welcome to  your ultimate fitness destination!  we offer a variety of fitness cl
 ####Our fitness ecosystem revolves around seamless administration. Admins have control over trainer bookings, payments, and member-related activities. Trainers can efficiently manage their schedules, and users can easily track their progress. The heart of our project lies in providing a comprehensive admin interface, ensuring smooth operations and a top-notch experience for both trainers and users alike.
 </br>
 </br>
-# projects >>  Fitness | Tracker || [Live Site](https://fitness-tracker-97708.web.app)
+
+
 
