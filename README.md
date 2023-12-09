@@ -67,7 +67,7 @@
 
 
 # projects >>  Fitness | Tracker || [Live Site](https://fitness-tracker-97708.web.app)
-##Feautres
+## Features
 ####  Fitness Booking Platform:
 Welcome to  your ultimate fitness destination!  we offer a variety of fitness classes led by experienced trainers. New users can explore our classes and book sessions after logging in. Whether you're into high-intensity workouts or prefer something more relaxing, we have the perfect class for you. Join us on a journey to a healthier, fitter you!
 
@@ -78,6 +78,33 @@ Welcome to  your ultimate fitness destination!  we offer a variety of fitness cl
 ####Our fitness ecosystem revolves around seamless administration. Admins have control over trainer bookings, payments, and member-related activities. Trainers can efficiently manage their schedules, and users can easily track their progress. The heart of our project lies in providing a comprehensive admin interface, ensuring smooth operations and a top-notch experience for both trainers and users alike.
 </br>
 </br>
+</br>
+</br>
+# projects >>  Job | Search || [Live Site](https://job-assingments-11.web.app)
+## Features
+###Job Services Hub:
+####Welcome to our Job Services platform! We specialize in three major categories: Web Development, Digital Marketing, and Graphics Design. Navigate through our neatly organized tabs to explore jobs in each category. Our website offers a sleek dark and light mode for user preference, ensuring a personalized experience. Join us to discover and post exciting opportunities in the world of tech and creativity.
+
+###Secure and User-Centric Platform:
+####Our website prioritizes user security and convenience. With a user-friendly Navbar featuring essential options like adding jobs, managing bits, and requests, we've implemented a dark/light mode toggle for a customizable interface. User authentication ensures that only registered users can access and interact with job data. Seamlessly log in via traditional credentials, Google, or GitHub, and experience a secure and personalized journey.
+
+###Efficient Job Posting and Bidding:
+####Experience streamlined job posting and bidding on our platform. Users with accounts can post jobs, which are promptly displayed on the homepage and category pages. The bidding process allows job seekers to submit their bids, and the unique "Accept" and "Reject" buttons empower job posters to manage bids effectively. Additionally, users can update and track their posted jobs in the "My Post" section, ensuring a dynamic and user-centric platform.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
