@@ -10,6 +10,7 @@
 </br>
 👋 Hi, I'm Siyam Ahmed, a MERN stack developer passionate about building sleek and scalable web applications. </br> 💻 I thrive on solving coding puzzles and embrace continuous learning to stay at the forefront of technology. </br> Let's connect and code something amazing together! 🚀
 </br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </br>
 
 ## Teach Stack :</br>
