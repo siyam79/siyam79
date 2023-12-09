@@ -4,7 +4,7 @@
 #### MERN STACK Web Developer
 ![MERN STACK Web Developer](https://i.ibb.co/8sdYT58/Purple-Gradient-Modern-Gaming-Channel-Youtube-Banner.png)
 
-<h4>  About US  </h4>
+<h4 className="text-center ">  About US  </h4>
 </br>
 </br>
 </br>
