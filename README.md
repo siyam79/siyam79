@@ -32,12 +32,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyam79)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=siyam79&show_icons=true&count_private=true) 
 
-
-
-
-
-
+</br>
+</br>
 
 
 
