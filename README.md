@@ -1,13 +1,12 @@
 ### Hi I'am 👋, Siyam Ahmed
 ## MERN STACK Web Developer
 ![MERN STACK Web Developer](https://i.ibb.co/xghys10/Purple-Gradient-Modern-Gaming-Channel-Youtube-Banner-2.png)
-</br>
-</br>
-
-</br>
-
-</br>
  ## About Me 
+</br>
+</br>
+</br>
+</br>
+
 👋 Hi, I'm Siyam Ahmed, a MERN stack developer passionate about building sleek and scalable web applications. </br> 💻 I thrive on solving coding puzzles and embrace continuous learning to stay at the forefront of technology. </br> Let's connect and code something amazing together! 🚀
 </br>
 
