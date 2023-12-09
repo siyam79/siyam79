@@ -4,6 +4,15 @@
 #### MERN STACK Web Developer
 ![MERN STACK Web Developer](https://i.ibb.co/8sdYT58/Purple-Gradient-Modern-Gaming-Channel-Youtube-Banner.png)
 
+</br>
+</br>
+</br>
+</br>
+
+</br>
+</br>
+</br>
+
 👋 Hi, I'm Siyam Ahmed, a MERN stack developer passionate about building sleek and scalable web applications. 💻 I thrive on solving coding puzzles and embrace continuous learning to stay at the forefront of technology. Let's connect and code something amazing together! 🚀
 
 Skills: [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,expressjs,reactjs,figma,vscode,tailwind)](https://skillicons.dev)
