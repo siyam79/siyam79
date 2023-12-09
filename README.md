@@ -2,7 +2,7 @@
 
 ### Hi I'am 👋, Siyam Ahmed
 #### MERN STACK Web Developer
-![MERN STACK Web Developer](https://i.ibb.co/8sdYT58/Purple-Gradient-Modern-Gaming-Channel-Youtube-Banner.png)](https://i.ibb.co/xghys10/Purple-Gradient-Modern-Gaming-Channel-Youtube-Banner-2.png)
+![MERN STACK Web Developer](https://i.ibb.co/xghys10/Purple-Gradient-Modern-Gaming-Channel-Youtube-Banner-2.png)
 </br>
 </br>
 </br>
