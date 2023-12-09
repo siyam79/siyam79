@@ -9,7 +9,7 @@
 
 👋 Hi, I'm Siyam Ahmed, a MERN stack developer passionate about building sleek and scalable web applications. </br> 💻 I thrive on solving coding puzzles and embrace continuous learning to stay at the forefront of technology. </br> Let's connect and code something amazing together! 🚀
 
-Skills: [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,expressjs,react,mongodb,vite,vercel,figma,vscode,tailwind)](https://skillicons.dev)
+## Skills: [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,expressjs,react,mongodb,vite,vercel,figma,vscode,tailwind)](https://skillicons.dev)
 
 
 - 🔭 I’m currently working on this page. 
