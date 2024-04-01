@@ -57,7 +57,7 @@ I'm a  👋,Siyam Ahmed **MERN Stack Developer** with a passion passionate about
 <!--  DIVIDER  -->
 
 <img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats">
-
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 </br>
 
  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=lassiecoder&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
