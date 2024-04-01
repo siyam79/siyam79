@@ -88,13 +88,20 @@ I'm a  👋,Siyam Ahmed **MERN Stack Developer** with a passion passionate about
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyam-ahmed-a5a6b3285/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@siyamahmed3827)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyamahmed3827@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Polywork-4A90E2?style=for-the-badge&logo=polywork&logoColor=white)](https://siyam-ahmed-portfolio.vercel.app/)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lassiecoder)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/foysalahmedsiyam/)
-[![Leetcode](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://leetcode.com/siyamahmed3827/)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/siyamahmed3827/)
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## Teach Stack :</br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,expressjs,react,mongodb,vite,vercel,figma,vscode,tailwind)](https://skillicons.dev)
+</br>
+</br>
 
 
 
