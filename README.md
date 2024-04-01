@@ -11,11 +11,11 @@
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
 
-I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
+I'm a  👋,Siyam Ahmed **MERN Stack Developer** with a passion passionate about building sleek and scalable web platforms.
 
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
 
-🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
+🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and Astra solutions that benefit everyone.
 
 <!--  EXCITED CHARACTERS  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
@@ -94,6 +94,9 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lassiecoder)
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+
+
+
 
 # projects >>  Fitness | Tracker || [Live Site](https://fitness-tracker-97708.web.app)
 ## Features
