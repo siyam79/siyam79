@@ -67,6 +67,8 @@ I'm a  👋,Siyam Ahmed **MERN Stack Developer** with a passion passionate about
 
 </br>
 
+ <img align="right"   src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 <!--  DIVIDER  -->
 </br>
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
