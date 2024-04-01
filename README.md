@@ -53,12 +53,13 @@ kaj ses
 
 
 <!--  MY GITHUB STAT  -->
-#### 🚀 Let's connect and collaborate!   <img  src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="100%" height="50"/>
+#### 🚀 Let's connect and collaborate!  
+<img  src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="100%" height="50"/>
 
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p width="100%" >[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</p>
 
 
 stats 
