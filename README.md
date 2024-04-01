@@ -62,7 +62,7 @@ I'm a  👋,Siyam Ahmed **MERN Stack Developer** with a passion passionate about
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 <!--LANGUAGES USED  -->
  <img align="right"   src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
+</br>
 
 <!--  DIVIDER  -->
 </br>
