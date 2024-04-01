@@ -37,18 +37,17 @@ I'm a  👋,Siyam Ahmed **MERN Stack Developer** with a passion passionate about
 
 
 <!--  MY GITHUB STAT  -->
-#### 🚀 Let's connect and collaborate!  
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
-
+<div align="right" width="100%">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## Teach Stack :</br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,expressjs,react,mongodb,vite,vercel,figma,vscode,tailwind)](https://skillicons.dev)
-</br>
+
 
 
 <img  src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="100%" height="40"/>
