@@ -60,6 +60,7 @@ I'm a  👋,Siyam Ahmed **MERN Stack Developer** with a passion passionate about
 
 </br>
 <!--  CAT  -->   
+</br>
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 <!--LANGUAGES USED  -->
 </br>
