@@ -40,12 +40,7 @@ I'm a  👋,Siyam Ahmed **MERN Stack Developer** with a passion passionate about
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
-<div align="right" width="100%">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</div>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=vue-dark&border_radius=6.5&mode=weekly&card_width=1200&type=png)](https://git.io/streak-stats)
 
 
 
@@ -94,6 +89,5 @@ I'm a  👋,Siyam Ahmed **MERN Stack Developer** with a passion passionate about
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siyam79&theme=vue-dark&border_radius=6.5&mode=weekly&card_width=1000&type=png)](https://git.io/streak-stats)
 
 
