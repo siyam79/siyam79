@@ -1,7 +1,4 @@
-<!--  PROFILE VISIT COUNTER  -->
-  <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&label=Profile%20views&color=36363b&style=flat" alt="lassiecoder" /></p>
-  </tr> 
+
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
