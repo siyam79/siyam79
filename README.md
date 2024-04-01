@@ -53,7 +53,7 @@ kaj ses
 
 
 <!--  MY GITHUB STAT  -->
-#### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+#### 🚀 Let's connect and collaborate!   <img  src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="100%" height="50"/>
 
 
 
